@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi I'm Varun 👋
+
+- 🔭 I’m currently working on building a brand for myself
+- 💬 Ask me about anything by [submitting an issue](https://github.com/varun-one/ama/issues/new/choose)
 
 <!--
 **varun-one/varun-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
